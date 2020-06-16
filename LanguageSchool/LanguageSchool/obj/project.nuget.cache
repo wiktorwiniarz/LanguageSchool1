@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2RuPJKdnOVTtQa1+15s3vOUYbknBmLyNB1hRCx6H/wPfd/dKMlAzibxJR2h3HcBq3APfpoXXEGA3Qic8JOFuw==",
+  "success": true,
+  "projectFilePath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
+    "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\fluentvalidation.validatorattribute\\8.6.1\\fluentvalidation.validatorattribute.8.6.1.nupkg.sha512",
+    "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+﻿@model LanguageSchool.Command.Trainings.RegisterTrainingCommand
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h2>Dodaj nowe spotkanie</h2>
+
+<form method="post">
+    @Html.HiddenFor(x => x.CourseId)
+    <div class="form-group">
+        <label asp-for="TrainingDate">Data</label>
+        <input asp-for="TrainingDate" type="datetime" class="form-control">
+        <span asp-validation-for="TrainingDate" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-outline-primary float-right">Zapisz</button>
+</form>

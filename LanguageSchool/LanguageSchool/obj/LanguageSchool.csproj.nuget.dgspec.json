@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj": {}
+  },
+  "projects": {
+    "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj",
+        "projectName": "LanguageSchool",
+        "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj",
+        "packagesPath": "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\",
+        "outputPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wiktor Winiarz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.ValidatorAttribute": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+﻿@model BuyBookingViewModel
+@{
+    ViewData["Title"] = "BuyBooking";
+}
+
+<h2>Zarezerwuj</h2>
+
+<form method="post">
+    @Html.HiddenFor(x => x.CourseId)
+    @Html.HiddenFor(x => x.TrainingId)
+    @Html.HiddenFor(x => x.TrainingDate)
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" type="text" class="form-control">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Quantity">Liczba osób</label>
+        <input asp-for="Quantity" type="number" class="form-control">
+        <span asp-validation-for="Quantity"></span>
+    </div>
+    <button type="submit" class="btn btn-outline-primary float-right">Zarezerwuj</button>
+</form>

@@ -1,0 +1,9 @@
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\bin\Debug\netcoreapp3.1\LanguageSchool.deps.json
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\bin\Debug\netcoreapp3.1\LanguageSchool.dll
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\obj\Debug\netcoreapp3.1\LanguageSchool.csprojAssemblyReference.cache
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\obj\Debug\netcoreapp3.1\LanguageSchool.AssemblyInfoInputs.cache
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\obj\Debug\netcoreapp3.1\LanguageSchool.AssemblyInfo.cs
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\obj\Debug\netcoreapp3.1\LanguageSchool.csproj.CoreCompileInputs.cache
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\bin\Debug\netcoreapp3.1\LanguageSchool.pdb
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\obj\Debug\netcoreapp3.1\LanguageSchool.dll
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool\obj\Debug\netcoreapp3.1\LanguageSchool.pdb

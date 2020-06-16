@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Test.Unit\\LanguageSchool.Test.Unit.csproj": {}
+  },
+  "projects": {
+    "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\LanguageSchool.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\LanguageSchool.Infrastructure.csproj",
+        "projectName": "LanguageSchool.Infrastructure",
+        "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\LanguageSchool.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\",
+        "outputPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wiktor Winiarz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj": {
+                "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.11, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Test.Unit\\LanguageSchool.Test.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Test.Unit\\LanguageSchool.Test.Unit.csproj",
+        "projectName": "LanguageSchool.Test.Unit",
+        "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Test.Unit\\LanguageSchool.Test.Unit.csproj",
+        "packagesPath": "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\",
+        "outputPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Test.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wiktor Winiarz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\LanguageSchool.Infrastructure.csproj": {
+                "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\LanguageSchool.Infrastructure.csproj"
+              },
+              "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.UI\\LanguageSchool.UI.csproj": {
+                "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.UI\\LanguageSchool.UI.csproj"
+              },
+              "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj": {
+                "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.UI\\LanguageSchool.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.UI\\LanguageSchool.UI.csproj",
+        "projectName": "LanguageSchool.UI",
+        "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.UI\\LanguageSchool.UI.csproj",
+        "packagesPath": "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\",
+        "outputPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wiktor Winiarz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\LanguageSchool.Infrastructure.csproj": {
+                "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool.Infrastructure\\LanguageSchool.Infrastructure.csproj"
+              },
+              "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj": {
+                "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj",
+        "projectName": "LanguageSchool",
+        "projectPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\LanguageSchool.csproj",
+        "packagesPath": "C:\\Users\\Wiktor Winiarz\\.nuget\\packages\\",
+        "outputPath": "D:\\Semestr5\\SzkolenieTechniczne3  2020\\Projekt1SZ_Tech_3\\LanguageSchool\\LanguageSchool\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Wiktor Winiarz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.ValidatorAttribute": {
+              "target": "Package",
+              "version": "[8.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

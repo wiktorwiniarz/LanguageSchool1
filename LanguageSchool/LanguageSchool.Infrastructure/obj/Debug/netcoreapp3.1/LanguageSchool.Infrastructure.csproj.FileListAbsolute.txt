@@ -1,0 +1,15 @@
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\bin\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.deps.json
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\bin\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.dll
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.csprojAssemblyReference.cache
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.AssemblyInfoInputs.cache
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.AssemblyInfo.cs
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\bin\Debug\netcoreapp3.1\LanguageSchool.dll
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\bin\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.runtimeconfig.json
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\bin\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.runtimeconfig.dev.json
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\bin\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.pdb
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\bin\Debug\netcoreapp3.1\LanguageSchool.pdb
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.csproj.CopyComplete
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.dll
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.pdb
+D:\Semestr5\SzkolenieTechniczne3  2020\Projekt1SZ_Tech_3\LanguageSchool\LanguageSchool.Infrastructure\obj\Debug\netcoreapp3.1\LanguageSchool.Infrastructure.genruntimeconfig.cache
